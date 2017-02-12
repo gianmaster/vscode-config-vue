@@ -1,0 +1,19 @@
+{
+    "typescript.check.tscVersion": false,
+    "phpformatter.composer": true,
+    "editor.fontSize": 13,
+    "window.zoomLevel": 1,
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "files.associations": {
+        "*.vue": "vue"
+    },
+    "emmet.syntaxProfiles": {
+        "vue": "css"
+    },
+     "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
+    "terminal.integrated.shellArgs.windows": [
+        "/k",
+        "C:\\Program Files\\Git\\bin\\bash.exe"
+    ]
+}
